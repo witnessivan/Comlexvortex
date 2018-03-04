@@ -1,7 +1,7 @@
 #include"COMPLEX.h"
 
 
-void print_interface(char select) {
+void print_interface(char opetaion) {
 	cout << "operation-comlex number" << endl;
 	cout << "+.summ" << endl;
 	cout << "-.subsract" << endl;
