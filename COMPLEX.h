@@ -11,7 +11,7 @@ typedef struct vortex {
 
 }vortex;
 
-void print_interface(char select);
+void print_interface(char operation);
 complex print_Complex(complex z);
 vortex EnterComplex(complex x, complex y);
 vortex Sum(complex x, complex y);
